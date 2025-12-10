@@ -74,6 +74,11 @@ export default function HomeScreen() {
           <ThemedText type="defaultSemiBold">app-example</ThemedText>.
         </ThemedText>
       </ThemedView>
+      <ThemedView>
+        <ThemedText type="subtitle">
+          Step 4: Get a steap 4
+        </ThemedText>
+      </ThemedView>
     </ParallaxScrollView>
   );
 }
